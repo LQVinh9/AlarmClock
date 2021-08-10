@@ -3,6 +3,8 @@
  
  <img src="https://img.shields.io/badge/build-passing-brightgreen"> <img src="https://img.shields.io/badge/size-123%20KB-blue"> <img src="https://img.shields.io/badge/language-C-orange">
  
+  ![GitHub Repo stars](https://img.shields.io/github/stars/LQVinh9/GameJumpForever?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/LQVinh9/GameJumpForever?style=social)
+ 
  Alarm clock device with arduino controller.
  
  Techs: C, Arduino IDE
