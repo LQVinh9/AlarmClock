@@ -13,6 +13,7 @@
   - The LM35 sensor helps to measure the current ambient temperature.
   - The buzzer is used as an alarm speaker.
   - LCD1602 used to make screen display for clock.
+  - The meter can be adjusted through the potentiometer.
   
  ### Features of the application:
   - Set alarm time.
