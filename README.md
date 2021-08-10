@@ -1,9 +1,7 @@
 # AlarmClock
  *The application was developed on March 10, 2020*
  
- <img src="https://img.shields.io/badge/build-passing-brightgreen"> <img src="https://img.shields.io/badge/size-123%20KB-blue"> <img src="https://img.shields.io/badge/language-C-orange">
- 
-  ![GitHub Repo stars](https://img.shields.io/github/stars/LQVinh9/AlarmClock?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/LQVinh9/AlarmClock?style=social)
+ ![GitHub Repo stars](https://img.shields.io/github/stars/LQVinh9/AlarmClock?style=social) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLQVinh9%2FAlarmClock&count_bg=%23AF27CD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <img src="https://img.shields.io/badge/build-passing-brightgreen"> <img src="https://img.shields.io/badge/size-123%20KB-blue"> <img src="https://img.shields.io/badge/language-C-orange">
  
  Alarm clock device with arduino controller.
  
